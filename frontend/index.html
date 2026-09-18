@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Support Assistant</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <header class="app-header">
+    <h1>Student Support Assistant</h1>
+    <p class="subtitle">Ask about regulations, syllabus, notices, and FAQs — answered from your college documents.</p>
+  </header>
+
+  <main class="chat-panel">
+
+    <div id="chatArea" class="chat-area">
+      <div class="message assistant-message">
+        <div class="bubble">
+          Hi! I'm your Student Support Assistant. Ask me about college regulations, syllabus, notices, or FAQs, and I'll answer using the documents that have been uploaded.
+        </div>
+      </div>
+    </div>
+
+    <div id="loadingIndicator" class="loading-indicator hidden">
+      <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+      <span class="loading-text">Thinking...</span>
+    </div>
+
+    <div id="errorArea" class="error-area hidden"></div>
+
+    <form id="chatForm" class="chat-input-row">
+      <input
+        type="text"
+        id="messageInput"
+        placeholder="Type your question... e.g. What is the attendance requirement?"
+        autocomplete="off"
+      />
+      <button type="submit" id="sendButton">Send</button>
+    </form>
+
+    <div class="controls-row">
+      <button id="clearChatButton" type="button">Clear Chat</button>
+      <span id="sessionLabel" class="session-label"></span>
+    </div>
+
+  </main>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

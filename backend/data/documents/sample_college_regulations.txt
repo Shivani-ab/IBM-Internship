@@ -1,0 +1,24 @@
+SAMPLE DATA — Replace with official college information.
+This file is a demonstration document only. It does not represent any real college.
+
+COLLEGE REGULATIONS - SAMPLE DOCUMENT
+
+1. ATTENDANCE POLICY
+Students must maintain a minimum of 75% attendance in each subject during a semester to be eligible to write the semester-end examination. Students with attendance between 65% and 75% may apply for condonation through the Head of Department, subject to valid medical or personal reasons supported by documentation. Students below 65% attendance will not be permitted to write the examination and may need to repeat the semester.
+
+2. EXAMINATION RULES
+Students must carry their college ID card to every examination. Mobile phones and smart watches are strictly prohibited inside the examination hall. Students arriving more than 30 minutes after the start of the examination will not be permitted to enter. The use of unfair means during an examination will lead to disciplinary action, which may include cancellation of the exam and suspension.
+
+3. INTERNAL ASSESSMENT
+Internal assessment marks are calculated based on two internal tests (20 marks each) and assignments (10 marks), for a total of 50 internal marks per subject. The average of the two internal tests is considered, along with assignment marks, to arrive at the final internal assessment score.
+
+4. HOLIDAY NOTICE (SAMPLE)
+The college will remain closed on all national holidays as per the government calendar. Departmental holidays, if any, will be announced separately by the respective Head of Department.
+
+5. LIBRARY RULES
+Each student may borrow up to 3 books at a time for a maximum period of 14 days. A fine of Rs. 2 per day will be charged for overdue books. Reference books and journals are for in-library reading only and cannot be borrowed.
+
+6. GRIEVANCE REDRESSAL
+Students with academic or administrative grievances should first approach their respective Head of Department. If unresolved, the matter can be escalated to the Dean of Academics through a written application submitted to the General Student Office.
+
+END OF SAMPLE DOCUMENT — Replace with your actual college regulations, syllabus, and notices.
